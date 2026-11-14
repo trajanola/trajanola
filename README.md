@@ -63,7 +63,7 @@
 ### 🏎️ `[ PERFORMANCE_PARTS : FRAMEWORKS ]`
 <p><i>Bibliotecas e frameworks para acelerar o desenvolvimento.</i></p>
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,flask,django,bootstrap,tailwind&theme=dark" alt="Frameworks" />
+  <img src="https://skillicons.dev/icons?i=nodejs,django&theme=dark" alt="Frameworks" />
 </a>
 
 <br /><br />
@@ -71,62 +71,9 @@
 ### 🏀 `[ PLAYBOOK_TACTICS : TOOLS & ENVIRONMENTS ]`
 <p><i>As táticas de versionamento e design para garantir a vitória do projeto.</i></p>
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,figma,notion&theme=dark" alt="Ferramentas" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,notion&theme=dark" alt="Ferramentas" />
 </a>
 
-</div>
-
-<br />
-
-## 👑 `[ MAIN_CORE_PROJECT : Nexora ]` 🔗
-
-<div align="center">
-  <p><i>Acesse o código-fonte abaixo para analisar a arquitetura do meu projeto de maior destaque:</i></p>
-  <a href="https://github.com/trajanola/Nexora">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=trajanola&repo=Nexora&title_color=00FFFF&icon_color=00B4D8&text_color=E2E8F0&bg_color=09090B&border_color=00FFFF&border_radius=10" alt="Nexora Project" />
-  </a>
-</div>
-
-<br />
-
-## 📊 `[ SYSTEM_TELEMETRY : DASHBOARD ]` 🔗
-
-<div align="center">
-  <table width="100%" style="border: none; background: transparent;">
-    <tr style="border: none; background: transparent;">
-      <td width="50%" align="center" style="border: none; background: transparent;">
-        <!-- GitHub Stats -->
-        <a href="https://github.com/trajanola">
-          <img height="190" src="https://github-readme-stats.vercel.app/api?username=trajanola&show_icons=true&include_all_commits=true&count_private=true&title_color=00FFFF&icon_color=00B4D8&text_color=FFFFFF&bg_color=09090B&border_color=00FFFF&border_radius=10" alt="GitHub Stats" />
-        </a>
-      </td>
-      <td width="50%" align="center" style="border: none; background: transparent;">
-        <!-- Top Languages -->
-        <a href="https://github.com/trajanola">
-          <img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trajanola&layout=compact&langs_count=5&title_color=00FFFF&text_color=FFFFFF&bg_color=09090B&border_color=00FFFF&border_radius=10" alt="Top Languages" />
-        </a>
-      </td>
-    </tr>
-    <tr style="border: none; background: transparent;">
-      <td colspan="2" align="center" style="border: none; background: transparent;">
-        <br />
-        <!-- GitHub Streak -->
-        <a href="https://github.com/trajanola">
-          <img src="https://streak-stats.demolab.com?user=trajanola&background=09090B&border=00FFFF&stroke=00FFFF&ring=00B4D8&fire=00FFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00B4D8&sideLabels=00B4D8&dates=94A3B8&borderRadius=10" alt="GitHub Streak" />
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<br />
-
-## 📈 `[ ACTIVITY_GRAPH : MATRIX_VIEW ]` 🔗
-
-<div align="center">
-  <a href="https://github.com/trajanola">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=trajanola&bg_color=09090B&color=00FFFF&line=00B4D8&point=FFFFFF&area=true&hide_border=false&border_color=00FFFF&radius=10" width="100%" alt="Contribution Graph" />
-  </a>
 </div>
 
 <br />
